@@ -10,7 +10,7 @@ const skillsData = [
       <FaCameraRetro className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Electric vehicles (EVs) offer a cleaner, quieter, and more efficient way to drive. With zero emissions and lower fuel costs, they’re the smart choice for a sustainable future.",
     aosDelay: "0",
   },
   {
@@ -19,7 +19,7 @@ const skillsData = [
       <GiNotebook className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Electric vehicles are the future of eco-friendly driving—zero emissions, low maintenance, and a smooth, quiet ride.",
     aosDelay: "500",
   },
   {
@@ -28,7 +28,7 @@ const skillsData = [
       <SlNote className="text-5xl text-primary group-hover:text-black duration-500" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Switch to electric vehicles for cleaner air, lower costs, and a smarter, greener lifestyle.",
     aosDelay: "1000",
   },
 ];

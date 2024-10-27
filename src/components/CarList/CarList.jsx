@@ -33,11 +33,10 @@ const CarList = () => {
           data-aos="fade-up"
           className="text-3xl sm:text-4xl font-semibold font-serif mb-3"
         >
-          Lorem ipsum dolor
+          Drive Into the Future: Go Green with Electric Vehicles!
         </h1>
         <p data-aos="fade-up" aos-delay="400" className="text-sm pb-10">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor iure
-          nemo ab?
+        Save Money, Save the Planet: Switch to Electric Today.
         </p>
         {/* Car listing */}
         <div>

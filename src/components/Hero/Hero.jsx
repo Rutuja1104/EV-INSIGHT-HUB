@@ -32,11 +32,10 @@ const Hero = ({ theme }) => {
               data-aos-delay="600"
               className="text-5xl lg:text-7xl font-semibold font-serif"
             >
-              Car Rental
+              EV INSIGHT HUB
             </h1>
             <p data-aos="fade-up" data-aos-delay="1000">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              veritatis explicabo quibusdam quae reprehenderit ab{" "}
+            Experience the future of driving with Electric Vehicles! Save on fuel costs, enjoy a smooth, quiet ride, and reduce your carbon footprint. EVs offer cutting-edge technology, zero emissions, and a sustainable lifestyle choice that benefits both you and the planet. Make the switch to greener, smarter transportation today!{" "}
             </p>
             <button
               data-aos="fade-up"

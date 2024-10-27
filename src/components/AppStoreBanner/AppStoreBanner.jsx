@@ -1,7 +1,7 @@
 import React from "react";
 import AppStoreImg from "../../assets/website/app_store.png";
 import PlayStoreImg from "../../assets/website/play_store.png";
-import pattern from "../../assets/website/pattern.jpeg";
+import pattern from "../../assets/website/Homepage-Model-3-Desktop-US.avif";
 
 const bannerImg = {
   backgroundImage: `url(${pattern})`,
@@ -26,9 +26,8 @@ const AppStoreBanner = () => {
             >
               Get Started with our app
             </h1>
-            <p data-aos="fade-up" className="text-center sm:px-20">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-              magnam harum accusantium odit?
+            <p data-aos="fade-up" className="text-center sm:px-20" style={{fontWeight:"800"}}>
+            Experience Zero Emissions, Maximum Efficiency with EVs
             </p>
             <div
               data-aos="fade-up"

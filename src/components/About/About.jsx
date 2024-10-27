@@ -22,12 +22,10 @@ const About = () => {
                 About us
               </h1>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, magnam! Tenetur odio quo et maxime?
+              Quiet, Powerful, and Eco-Friendly: Meet Your Next Vehicle
               </p>
               <p data-aos="fade-up">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-                tempora.
+                Electric vehicles are the future of eco-friendly driving—zero emissions, low maintenance, and a smooth, quiet ride.
               </p>
               <button data-aos="fade-up" className="button-outline">
                 Get Started

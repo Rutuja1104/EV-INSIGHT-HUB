@@ -2,21 +2,21 @@ import React from "react";
 
 const testimonialData = [
   {
-    name: "Dilshad",
+    name: "John",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Drive electric and enjoy efficiency, sustainability, and cutting-edge technology in every journey.",
     aosDelay: "0",
   },
   {
-    name: "Satya",
+    name: "Smith",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Electric vehicles (EVs) offer a cleaner, quieter, and more efficient way to drive. With zero emissions and lower fuel costs, they’re the smart choice for a sustainable future.",
     aosDelay: "300",
   },
   {
-    name: "Sabir",
+    name: "Allen",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Save on fuel costs, enjoy a smooth, quiet ride, and reduce your carbon footprint. EVs offer cutting-edge technology, zero emissions, and a sustainable lifestyle choice that benefits both you and the planet",
     aosDelay: "1000",
   },
 ];
@@ -35,8 +35,7 @@ const Testimonial = () => {
               What Our Clients Say About Us
             </p>
             <p data-aos="fade-up" className="text-center sm:px-44">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Perferendis iure consectetur tempora amet.
+            Join the Revolution: Electric Vehicles for a Sustainable Tomorrow
             </p>
           </div>
 
