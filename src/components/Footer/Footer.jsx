@@ -10,19 +10,19 @@ import {
 const FooterLinks = [
   {
     title: "Home",
-    link: "EV-INSIGHT-HUB/#",
+    link: "/EV-INSIGHT-HUB/#",
   },
   {
     title: "About",
-    link: "EV-INSIGHT-HUB/#about",
+    link: "/EV-INSIGHT-HUB/#about",
   },
   {
     title: "Contact",
-    link: "EV-INSIGHT-HUB/#contact",
+    link: "/EV-INSIGHT-HUB/#contact",
   },
   {
     title: "Blog",
-    link: "EV-INSIGHT-HUB/#blog",
+    link: "/EV-INSIGHT-HUB/#blog",
   },
 ];
 const Footer = () => {
