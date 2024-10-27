@@ -81,7 +81,6 @@ const Navbar = ({ theme, setTheme }) => {
                 className="text-2xl"
               />
             )}
-            {/* Mobile Hamburger icon */}
             {showMenu ? (
               <HiMenuAlt1
                 onClick={toggleMenu}
