@@ -7,22 +7,22 @@ export const Navlinks = [
   {
     id: 1,
     name: "HOME",
-    link: "/#",
+    link: "EV-INSIGHT-HUB/#",
   },
   {
     id: 2,
     name: "CARS",
-    link: "/#cars",
+    link: "EV-INSIGHT-HUB/#cars",
   },
   {
     id: 1,
     name: "ABOUT",
-    link: "/#about",
+    link: "EV-INSIGHT-HUB/#about",
   },
   {
     id: 1,
     name: "BOOKING",
-    link: "/#booking",
+    link: "EV-INSIGHT-HUB/#booking",
   },
 ];
 const Navbar = ({ theme, setTheme }) => {
