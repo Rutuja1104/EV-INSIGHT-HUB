@@ -3,51 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EV Insight Hub - README</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f0f8ff;
-    }
-    h1, h2, h3 {
-      color: #2e6d7e;
-    }
-    a {
-      text-decoration: none;
-      color: #2e6d7e;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .banner {
-      text-align: center;
-      background-color: #d9edf7;
-      padding: 20px;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
-    .preview img {
-      max-width: 100%;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
-    .features, .technologies, .setup {
-      margin-bottom: 30px;
-    }
-    .btn-demo {
-      background-color: #2e6d7e;
-      color: white;
-      padding: 10px 20px;
-      border: none;
-      border-radius: 5px;
-    }
-    .btn-demo:hover {
-      background-color: #1f4f59;
-    }
-  </style>
+
 </head>
 <body>
   <header class="banner">
