@@ -26,7 +26,7 @@
   <section class="preview">
     <h2>📸 Preview</h2>
     <p><a href="https://rutuja1104.github.io/EV-Insight-Hub/">Live Demo</a></p>
-    <img src="[[https://via.placeholder.com/800x40](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dev&psig=AOvVaw38LJnhXWEFmAgtuLINKuB-&ust=1732517532321000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiwwfKw9IkDFQAAAAAdAAAAABAE)0](https://t3.ftcdn.net/jpg/05/53/37/84/360_F_553378481_GN2s3TjPC3RvoQzMlZ0BBAGAZLX0VQA1.jpg)" alt="EV Insight Hub Preview">
+    <img src="https://t3.ftcdn.net/jpg/05/53/37/84/360_F_553378481_GN2s3TjPC3RvoQzMlZ0BBAGAZLX0VQA1.jpg" alt="EV Insight Hub Preview">
   </section>
 
   <section class="technologies">
